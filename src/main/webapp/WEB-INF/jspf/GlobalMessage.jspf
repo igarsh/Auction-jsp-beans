@@ -1,0 +1,4 @@
+<% if (session.getAttribute("GlobalMessage") != null) {%>
+    <div class="message"><%= (String) session.getAttribute("GlobalMessage") %></div>
+<% session.setAttribute("GlobalMessage", null);%>
+<%}%>

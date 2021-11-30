@@ -1,0 +1,60 @@
+a:hover { color: navy; text-decoration: underline}
+body { background-color: #D0D0D0; color: black;}
+a { color: blue; text-decoration: none; font-size: 14px}
+td, div { font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: black}
+th {font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #000055; font-weight: bold}
+form {margin-top:5px; margin-bottom:5px}
+h2 {margin-top:0px; margin-bottom:0px}
+
+.label {font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: black; font-weight: bold}
+.message {  color:red;
+  background-color: white;
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  border-right-style: solid;
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-top-color: black;
+  border-bottom-color: black;
+  border-left-color: black;
+  border-right-color: black;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 3px;
+  padding-right: 3px;
+  width: 300px;
+}
+.header1 { font-family: Arial, Helvetica, sans-serif; font-size: 16pt; color: black }
+.header2 { font-family: Arial, Helvetica, sans-serif; font-size: 12pt; font-weight:bold; color: #000055 }
+.tablebg { background-color: #000000 }				/* table border color */
+.listhead { background-color:#a0a0a0 }				/* table headers for any type of list */
+.selhead { background-color: #444411 }				/* table header color for the currently selected sort column */
+.headlink { color: #FFCC99 }					/* header/footer links */
+.plrlink { color: #FFCC99 }					/* link for players in main index player listing */
+.row1 { background-color: white }				/* generic row #1 */
+.row2 { background-color: white }				/* generic row #2 */
+.maprow1 { background-color: #333333 }				/* row #1 used on maps pages */
+.maprow2 { background-color: #555555 }				/* row #2 ... */
+.plrrow1 { background-color: #c8c8c8 }				/* row #1 used on player lists (index, clans) */
+.plrrow2 { background-color: white }				/* row #2 ...*/
+.plrgenhead { background-color: #666633 }			/* generic header for player pages */
+.plrgenrow1 { background-color: #333333 }			/* generic row #1 for player pages */
+.plrgenrow2 { background-color: #555555 }			/* generic row #2 ... */
+.plrkilldesc { color: #000055 }                                 /* Kill desc/legend text */
+.plrdeathdesc { color: #550000 }                                /* death desc/legend text */
+.plrdmgdesc { color: #005500 }                                  /* damage desc/legend text */
+.plracrydesc { color: #BBBB00 }                                 /* accuracy desc/legend text */ 
+.plrkillbar { background-color: #000055 }                       /* kill percentage bar for players */
+.plrdeathbar { background-color: #550000 }                      /* death bar ... */
+.plrdmgbar { background-color: #005500 }                        /* damage bar ... */
+.plracrybar { background-color: #BBBB00 }                       /* accuracy bar ... */
+.plrrolebar { background-color: #000055 }			/* roles bar ... */
+.plrweaponawardfont { color: #AAAA00; font-weight: bold }	/* player weapon awards 'highlight' */
+.plrawardfont { color: #AAAA00; font-weight: bold }		/* player awards 'highlight' */
+.goodhead { background-color: #000033 }				/* goodguy team header */
+.badhead { background-color: #330000 }				/* badguy team header */
+.flat { border-style: none; background-color: #c0c0c0; text-align:center; }
+
