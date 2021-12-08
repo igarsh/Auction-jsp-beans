@@ -1,4 +1,4 @@
-# Auction
+# Auction app
 
 It was about 10 years ago, when I created this test project for educational purposes. 
 JSP,Java Beans and pure JDBC connection.
